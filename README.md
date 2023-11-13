@@ -1,2 +1,2 @@
 # LeRoiDelaCouche_frontend_web
-nest.js backend for LeRoideLaCouche website
+nest.js frontend for LeRoideLaCouche website
